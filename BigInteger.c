@@ -771,7 +771,7 @@ struct BigInteger addminus(struct BigInteger a, struct BigInteger b,int sign)
     return tmp;
 }
 
-
+/*
 int main() {
     char a[200];
     char b[200];
@@ -801,4 +801,4 @@ int main() {
     // printf("%d", respro.length);
 
     return 0;
-}
+}*/
